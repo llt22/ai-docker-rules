@@ -1,8 +1,8 @@
-# DockSkill
+# ai-docker-rules
 
 一份可复制到 AI 编码工具上下文中的 Markdown 规则文件，让 AI 遵循 Docker Compose 部署最佳实践，为常见 Web 项目生成一致、幂等、可迁移的单机部署配置。
 
-DockSkill 不是插件或扩展包，只是一个文档项目。你把规则内容放进项目的 AI 规则文件后，再让 AI 生成 Docker 部署配置。
+ai-docker-rules 不是插件或扩展包，只是一个文档项目。你把规则内容放进项目的 AI 规则文件后，再让 AI 生成 Docker 部署配置。
 
 它面向 VPS / 单机服务器 / 小团队项目的 Docker Compose 部署，不试图覆盖 Kubernetes、蓝绿发布、滚动发布、多实例高可用等复杂场景。
 
